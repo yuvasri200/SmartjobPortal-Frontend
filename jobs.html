@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Available Jobs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="loadJobs()">
+
+<div class="header">
+    <h2>Available Jobs</h2>
+    <button onclick="logoutUser()">Logout</button>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Salary</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody id="jobsTableBody">
+    </tbody>
+</table>
+
+<script src="script.js"></script>
+</body>
+</html>
