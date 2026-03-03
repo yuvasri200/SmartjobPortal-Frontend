@@ -35,7 +35,7 @@ http://localhost:8080/api
 3. Register → Login → View Jobs → Apply
 
 ## 🔗 Backend Repository
-(Insert your backend GitHub link here)
+https://github.com/yuvasri200/SmartjobPortal-Backend.git
 
 ---
 
